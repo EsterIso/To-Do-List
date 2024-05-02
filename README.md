@@ -32,23 +32,30 @@ This class manages the tasks in the to-do list. It contains methods for getting 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the app: <br/>
-<img src="https://i.imgur.com/OZGbqGC.png" height="50%" width="50%" alt=""/>
+Run the app: <br/>
+<img src="https://i.imgur.com/crQHNHE.png" height="50%" width="50%" alt=""/>
 <br />
 <br />
-Searching for New York's Weather:  <br/>
-<img src="https://i.imgur.com/KT1vy40.png" height="50%" width="50%" alt=""/>
+Get current Task:  <br/>
+<img src="https://imgur.com/KDxbCuD.png" height="50%" width="50%" alt=""/>
 <br />
 <br />
-Searching for Iceland's Weather:  <br/>
-<img src="https://i.imgur.com/iarbZ2w.png" height="50%" width="50%" alt=""/>
+Create a new Task:  <br/>
+<img src="https://imgur.com/BOTNH43.png" height="50%" width="50%" alt=""/>
 <br />
 <br />
-Dark Mode toggled:  <br/>
-<img src="https://i.imgur.com/QO3MYm0.png" height="50%" width="50%" alt=""/>
+Edit a Task:  <br/>
+<img src="https://i.imgur.com/0EaPPkp.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-
+Delete a Task:  <br/>
+<img src="https://imgur.com/ROF25vY.png" height="50%" width="50%" alt=""/>
+<br />
+<br />
+Exit application:  <br/>
+<img src="https://imgur.com/uZhWMJM.png" height="50%" width="50%" alt=""/>
+<br />
+<br />
  
 <!--
  ```diff
